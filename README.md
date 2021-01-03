@@ -6,6 +6,14 @@
 2. 方法Log 
 3. 默认json化主要用于给elk做日志收集使用
 
+### 使用 log-starter 
+```xml
+   <dependency>
+        <groupId>cn.structured</groupId>
+        <artifactId>structure-log-starter</artifactId>
+        <version>1.0.1.SNAPSHOT</version>
+    </dependency>
+```
 ### web接口的开启
 默认开启了 WebAopLog 的功能需要配置aop的切入点
 ```yaml
