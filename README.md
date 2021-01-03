@@ -4,7 +4,7 @@
 ## 功能 
 1. web接口 Log 
 2. 方法Log 
-3. 默认json化主要用户给elk做日志收集使用
+3. 默认json化主要用于给elk做日志收集使用
 
 ### web接口的开启
 默认开启了 WebAopLog 的功能需要配置aop的切入点
