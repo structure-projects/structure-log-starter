@@ -11,7 +11,7 @@
    <dependency>
         <groupId>cn.structured</groupId>
         <artifactId>structure-log-starter</artifactId>
-        <version>1.0.1.SNAPSHOT</version>
+        <version>${last.version}</version>
     </dependency>
 ```
 ### web接口的开启
